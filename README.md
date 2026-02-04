@@ -6,8 +6,6 @@ A curated list of awesome resources, projects, toolkits, and learning paths for 
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 ![License](https://img.shields.io/badge/license-CC0--1.0-blue.svg)
 
----
-
 ## Contents
 - [Community & Socials](#community--socials)
 - [Official Design Assets](#official-design-assets)
@@ -16,8 +14,6 @@ A curated list of awesome resources, projects, toolkits, and learning paths for 
 - [Tech Talks](#tech-talks)
 - [Technologies (Learning Paths)](#technologies-learning-paths)
 - [Contributing](#contributing)
-
----
 
 ## Community & Socials
 * [GDG India Directory](https://gdg.community.dev/) - Find a chapter near you.
@@ -55,15 +51,10 @@ Recorded sessions and slide decks from community speakers.
 * **Mobile:** [Flutter](https://docs.flutter.dev/) | [Android Development](https://developer.android.com/)
 * **Web:** [Web.dev](https://web.dev/learn/) | [Angular](https://angular.dev/)
 
----
-
 ## Contributing
 We love your contributions! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to add your resources to this list.
-
----
 
 ## License
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work. See [LICENSE](LICENSE) for details.
 
----
 *Built with ❤️ by the GDG India Community.*
