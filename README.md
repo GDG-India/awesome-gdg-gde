@@ -29,7 +29,7 @@ Hands-on tutorials created by the community.
 | Resource | Creator | Description |
 | :--- | :--- | :--- |
 | [Building GraphRAG Agents with ADK](https://codelabs.developers.google.com/neo4j-adk-graphrag-agents?hl=en#0) | [Siddhanth Agarwal - GDE]() | Build a multi-agent investment research system that combines the power of Google's Agent Development Kit (ADK), Neo4j Graph Database, and the Model Context Protocol (MCP) Toolbox. |
-| [Build a Movie Recommendation Chatbot using Neo4j and Vertex AI](https://github.com/](https://codelabs.developers.google.com/neo4j-vertexai-movie-recommender-python?hl=en#0)) | [Siddhanth Agarwal - GDE]() | Build an intelligent movie recommendation chatbot by combining the power of Neo4j, Google Vertex AI, and Gemini.. |
+| [Build a Movie Recommendation Chatbot using Neo4j and Vertex AI](https://codelabs.developers.google.com/neo4j-vertexai-movie-recommender-python#0) | [Siddhanth Agarwal - GDE]() | Build an intelligent movie recommendation chatbot by combining the power of Neo4j, Google Vertex AI, and Gemini.. |
 | [Agentic Workflows inside Google Workspace:Build a Google Docs Agent with ADK](https://codelabs.developers.google.com/google-docs-adk-agent?hl=en#0) | [Aryan Irani - GDE]() | You will design, build and deploy an Agent, built using ADK, deployed in Agent Engine, that will perform fact checking inside a Google Doc.|
 | [Codelab - Managing Kubernetes with kubectl-ai, an AI powered Kubernetes Assistant](https://codelabs.developers.google.com/kubernetes-with-kubectl-ai?hl=en#0) | [Ashutosh S. Bhakare - GDE]() | You will learn and use kubectl-ai, an AI powered Kubernetes Assistant powered tool to manage a GKE cluster.|
 
