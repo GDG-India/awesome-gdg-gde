@@ -39,7 +39,7 @@ Open-source projects and toolkits built by the community.
 
 | Resource | Creator | Description |
 | :--- | :--- | :--- |
-| [ResumeGuide: Multi-Agent Resume System](https://github.com/bhav09/Building-and-Deploying-Agents-using-Google-ADK) | Bhavani Singh | A 3-agent system to help B.Tech students craft better resumes, built with Google ADK (Agent Development Kit) and Vertex AI. |
+| [Building and Deploying Agents with Google ADK](https://github.com/bhav09/Building-and-Deploying-Agents-using-Google-ADK) | Bhavishya Pandit | The easiest way to learn, build, and deploy Agents using Google ADK (Agent Development Kit) and Vertex AI. |
 
 ## Tech Talks
 Recorded sessions and slide decks from community speakers.
