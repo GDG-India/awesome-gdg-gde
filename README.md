@@ -12,6 +12,7 @@ A curated list of awesome resources, projects, toolkits, and learning paths for 
 - [Community & Socials](#community--socials)
 - [Official Design Assets](#official-design-assets)
 - [Codelabs](#codelabs)
+- [Code Repositories](#code-repositories)
 - [Tech Talks](#tech-talks)
 - [Technologies (Learning Paths)](#technologies-learning-paths)
 - [Contributing](#contributing)
@@ -33,6 +34,12 @@ Hands-on tutorials created by the community.
 | [Agentic Workflows inside Google Workspace:Build a Google Docs Agent with ADK](https://codelabs.developers.google.com/google-docs-adk-agent?hl=en#0) | Aryan Irani - GDE | You will design, build and deploy an Agent, built using ADK, deployed in Agent Engine, that will perform fact checking inside a Google Doc.|
 | [Codelab - Managing Kubernetes with kubectl-ai, an AI powered Kubernetes Assistant](https://codelabs.developers.google.com/kubernetes-with-kubectl-ai?hl=en#0) | Ashutosh S. Bhakare - GDE | You will learn and use kubectl-ai, an AI powered Kubernetes Assistant powered tool to manage a GKE cluster.|
 
+## Code Repositories
+Open-source projects and toolkits built by the community.
+
+| Resource | Creator | Description |
+| :--- | :--- | :--- |
+| [ResumeGuide: Multi-Agent Resume System](https://github.com/bhav09/Building-and-Deploying-Agents-using-Google-ADK) | Bhavani Singh | A 3-agent system to help B.Tech students craft better resumes, built with Google ADK (Agent Development Kit) and Vertex AI. |
 
 ## Tech Talks
 Recorded sessions and slide decks from community speakers.
