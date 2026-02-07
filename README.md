@@ -72,7 +72,12 @@ A curated list of awesome resources, projects, toolkits, and learning paths for 
 | :--- | :--- | :--- |
 | [Google ADK Guide](https://github.com/bhav09/Building-and-Deploying-Agents-using-Google-ADK) | A comprehensive toolkit for deploying AI Agents on Vertex AI. | [Bhavishya Pandit](https://github.com/bhav09) |
 | [Analytica Agent](https://github.com/geeta-gwalior/Analytica-Agent) | Local AI framework for secure pharma data visualization. | [Geeta Kakrani](https://github.com/geeta-gwalior) |
-
+| [Mining Resume](https://www.linkedin.com/in/yogeshkulkarni//MiningResume) | Extract structured information from resumes and optionally build a knowledge graph for intelligent querying and chatbots. | [Yogesh Kulkarni](https://www.linkedin.com/in/yogeshkulkarni/) |
+| [The Nature of Code – Python](https://www.linkedin.com/in/yogeshkulkarni//TheNatureOfCode) | Python-based implementations of physics and ML-inspired animations from The Nature of Code series. | [Yogesh Kulkarni](https://www.linkedin.com/in/yogeshkulkarni/) |
+| [MidcurveNN & MidcurveLLM](https://www.linkedin.com/in/yogeshkulkarni//MidcurveNN) | Generate the midcurve of a 2D closed shape using neural networks and LLM fine-tuning. | [Yogesh Kulkarni](https://www.linkedin.com/in/yogeshkulkarni/) |
+| [Ask Yogasutra](https://www.linkedin.com/in/yogeshkulkarni//Sarvadnya/tree/main/src/ask_yogasutra) | AI-powered knowledge system exploring the Yogasutra using RAG, Knowledge Graphs, and GraphRAG. | [Yogesh Kulkarni](https://www.linkedin.com/in/yogeshkulkarni/) |
+| [Sarvadnya](https://www.linkedin.com/in/yogeshkulkarni//Sarvadnya) | Collection of LLM-based custom chatbot and RAG proof-of-concepts across multiple document types. | [Yogesh Kulkarni](https://www.linkedin.com/in/yogeshkulkarni/) |
+| [Sadrushya](https://www.linkedin.com/in/yogeshkulkarni//Sadrushya) | Open-source initiative on Spatial Intelligence for understanding and generating the 3D physical world from 2D data. | [Yogesh Kulkarni](https://www.linkedin.com/in/yogeshkulkarni/) |
 ---
 
 ## 📚 Learning Paths
