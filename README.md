@@ -1,4 +1,4 @@
-# Awesome GDG India 🚀
+# Awesome GDGs and GDEs of India 🚀
 
 A curated list of awesome resources, projects, toolkits, and learning paths for the **Google Developer Group** community in India.
 
