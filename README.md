@@ -70,6 +70,13 @@ A curated list of awesome resources, projects, toolkits, and learning paths for 
 ---
 
 ## 💻 Open Source Projects
+
+### Kotlin Multiplatform & Compose
+| Project | Description | Creator |
+| :--- | :--- | :--- |
+| [Lumen](https://github.com/aldefy/Lumen) | Compose Multiplatform coachmark library with transparent cutouts, 6 animations, and customizable tooltips — supports Android, iOS, Desktop, and Web. Published on Maven Central. | [Adit Lal](https://github.com/aldefy) |
+
+### AI & Data
 | Project | Description | Creator |
 | :--- | :--- | :--- |
 | [Google ADK Guide](https://github.com/bhav09/Building-and-Deploying-Agents-using-Google-ADK) | A comprehensive toolkit for deploying AI Agents on Vertex AI. | [Bhavishya Pandit](https://github.com/bhav09) |
