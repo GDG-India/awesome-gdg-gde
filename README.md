@@ -64,9 +64,6 @@ A curated list of awesome resources, projects, toolkits, and learning paths for 
 ## 🎤 Tech Talks
 | Session Title | Description | Speaker | Event |
 | :--- | :--- | :--- | :--- |
-| **The Future of Web** | Exploring upcoming browser standards and WebAssembly capabilities. | [Name](https://x.com/) | DevFest 2025 |
-| **Android with Compose** | A deep dive into state management and animations in Modern Android. | [Name](https://x.com/) | Build with AI |
-| **Android with Compose** | A deep dive into state management and animations in Modern Android. | [Name](https://x.com/) | Build with AI |
 | **Beyond SIEM**:  | Building an Al-Powered Cloud Detection & Response System on Google Cloud using Elastic  | [Jitendra Gupta](https://www.linkedin.com/in/jitu028/) | Found & Fixed (GDG Noida - Feb-2026) 
 ---
 
