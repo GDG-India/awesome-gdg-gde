@@ -73,6 +73,7 @@ A curated list of awesome resources, projects, toolkits, and learning paths for 
 | Project | Description | Creator |
 | :--- | :--- | :--- |
 | [Lumen](https://github.com/aldefy/Lumen) | Compose Multiplatform coachmark library with transparent cutouts, 6 animations, and customizable tooltips — supports Android, iOS, Desktop, and Web. Published on Maven Central. | [Adit Lal](https://github.com/aldefy) |
+| [Rebound](https://github.com/aldefy/compose-rebound) | Compose recomposition budget monitor — Kotlin compiler plugin that classifies composables by role (Screen, Container, Animated, etc.) and flags the ones exceeding their budget at runtime. Includes an Android Studio plugin with live monitoring. Supports Kotlin 2.0–2.3, Android and iOS. Published on Maven Central. | [Adit Lal](https://github.com/aldefy) |
 
 ### AI & Data
 | Project | Description | Creator |
