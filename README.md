@@ -39,6 +39,7 @@ A curated list of awesome resources, projects, toolkits, and learning paths for 
 | [Music Gen with Lyria](https://stepwik.com/labs/real-time-music-generation-with-lyria-realtime-bC7573) | Use persistent sessions with the Gemini API to steering musical elements in real-time. | Vrijraj Singh |
 | [Function Calling in Node.js](https://stepwik.com/labs/gemini-with-function-calling-in-node-GZXRSV) | Build a currency conversion API bridging natural language and programmatic functions. | Vrijraj Singh |
 | [Mastering the Developer Knowledge API and MCP Server](https://stepwik.com/labs/mastering-the-developer-knowledge-api-and-mcp-server-9msajy) | This codelab guides you through integrating the Developer Knowledge API and MCP Server to ground AI in official Google documentation. | Vrijraj Singh |
+| [Google Antigravity: LinkedIn-to-Live Portfolio](https://stepwik.com/labs/google-antigravity-linkedin-portfolio) | Use Google Antigravity to scrape LinkedIn, map data with Agent Skills, and deploy a Next/Firebase portfolio, all in minutes. | Vrijraj Singh |
 
 
 ### Firebase & Web
